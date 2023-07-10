@@ -1,3 +1,4 @@
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHN0MjM2bzZlaHpya3J3bHk4MjM0enk0eHNzcnYzYXRyOG43c2IxayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif">
 <h1 align="center">Hi 👋, I'm Badr</h1>
 <h3 align="center">An innovative Full-Stack developer from Morocco</h3>
 
